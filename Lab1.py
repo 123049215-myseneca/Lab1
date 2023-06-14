@@ -1,8 +1,3 @@
-This is Lab1 Submission
-This is Lab 2 Submission/
-
-
-
 def calculate_age():
     current_year = 2023  # set the current year
     birth_year = int(input("Enter your birth year: "))  # ask the user for their birth year and convert it to an integer
